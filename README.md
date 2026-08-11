@@ -1,0 +1,1 @@
+Learn a step-by-step vaccine design workflow from retrieving antigenic protein sequences from the NCBA protein database to epitope prediction. Evaluate antigenicity and allergenicity, physicochemical properties, secondary structure, and antibody docking.
