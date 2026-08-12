@@ -9,7 +9,7 @@
  
     3. haddock-tools: Set of useful utility scripts developed over the years by the BonvinLab group members
 
-    HADDOCK-tools: A collection of useful scripts related to HADDOCK (https://github.com/haddocking/haddock-tools)
+[HADDOCK-tools: A collection of useful scripts related to HADDOCK] (https://github.com/haddocking/haddock-tools)
 
     4. User manual: The online HADDOCK3 guide describing every aspects of the tool.
 [HADDOCK best practice guide] (https://www.bonvinlab.org/software/bpg/)
