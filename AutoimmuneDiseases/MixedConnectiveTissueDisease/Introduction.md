@@ -169,8 +169,7 @@ OmicsML/awesome-foundation-model-single-cell-papers: Un repositorio curado que r
    Por qué te sirve: Este tipo de datasets analizan la correlación entre la presencia de anticuerpos anti-U1-RNP y manifestaciones severas compartidas como el Fenómeno de Raynaud o la artritis. Reveló recientemente la existencia de la firma molecular de ciclo celular Th1 ligada directamente a la actividad del anticuerpo.
    Enfoque de Análisis: Ejecuta análisis de enriquecimiento de vías de señalización (GSEA) para validar cómo la vía Th1 altera el endotelio vascular.
 
-
-   Código R de Arranque Rápido (Snippet)
+#### Código R de Arranque Rápido (Snippet)
 
    Para descargar cualquiera de estos datasets e interactuar con ellos desde tu terminal utilizando GEOquery en R,
    puedes usar esta estructura base:R# Instalar y cargar GEOquery para extraer los datos
@@ -179,11 +178,11 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocMana
 BiocManager::install("GEOquery")
 library(GEOquery)
 
-# Descargar la serie de expresión (ejemplo con un dataset de LES/MCTD)
+##### Descargar la serie de expresión (ejemplo con un dataset de LES/MCTD)
 gse_data <- getGEO("GSE163121", GSEMatrix = TRUE) # Cambiar por el ID deseado
 expression_matrix <- exprs(gse_data[[1]])
 clinical_metadata <- pData(gse_data[[1]])
 
-# Ahora puedes cruzar 'expression_matrix' con los pipelines de Seurat o limma
+##### Ahora puedes cruzar 'expression_matrix' con los pipelines de Seurat o limma
 head(clinical_metadata[, c("title", "characteristics_ch1")])
 
