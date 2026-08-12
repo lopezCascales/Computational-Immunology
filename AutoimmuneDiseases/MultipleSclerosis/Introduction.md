@@ -30,19 +30,20 @@ What you need to learn:
 
 r
 ##### Key packages for multi-omics integration
-BiocManager::install("MultiAssayExperiment")  # store multiple data types per patient
 
-install.packages("mixOmics")                  # DIABLO — multi-omics integration
-
-BiocManager::install("MOFA2")                 # Factor analysis across modalities
+|R package|Function|
+|---|---|
+|BiocManager::install("MultiAssayExperiment")|store multiple data types per patient|
+|install.packages("mixOmics")|DIABLO — multi-omics integration|
+|BiocManager::install("MOFA2")|Factor analysis across modalities|
 
 ##### For genetic data (GWAS)
 
-install.packages("TwoSampleMR")     # Mendelian randomisation
-
-install.packages("coloc")           # colocalisation of GWAS + eQTL signals
-
-BiocManager::install("SNPRelate")   # genetic data processing
+|R package|Function|
+|---|---|
+|install.packages("TwoSampleMR")|Mendelian randomisation
+|install.packages("coloc")|colocalisation of GWAS + eQTL signals
+|BiocManager::install("SNPRelate")|genetic data processing
 
 The key concept — patient as the unit of integration:
 
