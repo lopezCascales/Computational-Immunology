@@ -177,12 +177,17 @@ OmicsML/awesome-foundation-model-single-cell-papers: Un repositorio curado que r
 ##### Instalar y cargar GEOquery para extraer los datos
 
 if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
+
 BiocManager::install("GEOquery")
+
 library(GEOquery)
 
 ##### Descargar la serie de expresión (ejemplo con un dataset de LES/MCTD)
+
 gse_data <- getGEO("GSE163121", GSEMatrix = TRUE) # Cambiar por el ID deseado
+
 expression_matrix <- exprs(gse_data[[1]])
+
 clinical_metadata <- pData(gse_data[[1]])
 
 ##### Ahora puedes cruzar 'expression_matrix' con los pipelines de Seurat o limma
