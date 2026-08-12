@@ -73,7 +73,8 @@ r
 
 
 ############################################
-MS biology
+
+### MS biology
 
 Read 5 key MS papers (list below)
 Understand the clinical data: EDSS, MRI lesion types, treatment response
@@ -85,13 +86,13 @@ Learn what "smoldering MS" means biologically
 ##### Ramaglia et al. 2023 — NIB group paper on B cells in MS brain
 ##### International MS Genetics Consortium 2019 Science — GWAS of 47,000 MS patients
 
-multi-omics integration
+### multi-omics integration
 
 Learn MOFA2 (you already have it as a skill in your profile)
 Practice integrating RNA + clinical data on a public MS dataset
 Dataset: GEO GSE138266 (scRNA-seq of MS patient blood)
 
-genetics
+### genetics
 
 Learn what GWAS output looks like and how to read it
 Learn about HLA typing (critical for MS — HLA-DRB1*15:01 is the biggest MS risk gene)
