@@ -9,20 +9,7 @@
  
     3. haddock-tools: Set of useful utility scripts developed over the years by the BonvinLab group members
 
-
     HADDOCK-tools: A collection of useful scripts related to HADDOCK (https://github.com/haddocking/haddock-tools)
-
-    PDB-tools: A collection of Python scripts for the manipulation (renumbering, changing chain and segIDs…) of PDB files. For documentation refer to https://www.bonvinlab.org/pdb-tools/.
-    Also available as web service
-
-    PowerFit: PowerFit is a Python package and simple command-line program to automatically fit high-resolution atomic structures in cryo-EM densities.
-    Also available as web service
-
-    Samplex: Samplex is an automatic and unbiased method to distinguish perturbed and unperturbed regions in a protein existing in two distinct states (folded/partially unfolded, bound/unbound). Samplex takes as input a set of data and the corresponding 3D structure and returns the confidence for each residue to be in a perturbed or unperturbed state.
-
-    WHISCY: WHISCY is a program to predict protein-protein interfaces. It is primarily based on conservation, but it also takes into account structural information.
-    Also available as web service
-
 
     4. User manual: The online HADDOCK3 guide describing every aspects of the tool.
 [HADDOCK best practice guide] (https://www.bonvinlab.org/software/bpg/)
