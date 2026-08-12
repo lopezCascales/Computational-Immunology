@@ -172,7 +172,9 @@ OmicsML/awesome-foundation-model-single-cell-papers: Un repositorio curado que r
 #### Código R de Arranque Rápido (Snippet)
 
    Para descargar cualquiera de estos datasets e interactuar con ellos desde tu terminal utilizando GEOquery en R,
-   puedes usar esta estructura base:R# Instalar y cargar GEOquery para extraer los datos
+   puedes usar esta estructura base:R
+   
+##### Instalar y cargar GEOquery para extraer los datos
 
 if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
 BiocManager::install("GEOquery")
