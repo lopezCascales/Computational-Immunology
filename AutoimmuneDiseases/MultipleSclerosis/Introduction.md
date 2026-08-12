@@ -89,11 +89,15 @@ Learn what "smoldering MS" means biologically
 ### multi-omics integration
 
 Learn MOFA2 (you already have it as a skill in your profile)
+
 Practice integrating RNA + clinical data on a public MS dataset
+
 Dataset: GEO GSE138266 (scRNA-seq of MS patient blood)
 
 ### genetics
 
 Learn what GWAS output looks like and how to read it
+
 Learn about HLA typing (critical for MS — HLA-DRB1*15:01 is the biggest MS risk gene)
+
 Practice with the IMSGC GWAS data (publicly available)
