@@ -17,9 +17,9 @@ brain-residing antibody-secreting cells in MS, suggesting B cells that hide in t
 
 Papers to read immediately:
 
-Kappos et al. 2020 Nature — smoldering MS concept
-Absinta et al. 2021 Nature Medicine — chronic active lesions
-Hauser et al. 2017 NEJM — B cells in MS (ocrelizumab trial)
+##### Kappos et al. 2020 Nature — smoldering MS concept
+##### Absinta et al. 2021 Nature Medicine — chronic active lesions
+##### Hauser et al. 2017 NEJM — B cells in MS (ocrelizumab trial)
 
 
 **Multi-omics data integration — the core technical skill**
@@ -79,11 +79,11 @@ Read 5 key MS papers (list below)
 Understand the clinical data: EDSS, MRI lesion types, treatment response
 Learn what "smoldering MS" means biologically
 
-Dendrou et al. 2015 Nature Reviews Immunology — "Immunopathology of multiple sclerosis" — start here, best overview
-Absinta et al. 2021 Nature Medicine — smoldering lesions, directly relevant to the position
-Schirmer et al. 2019 Nature — scRNA-seq of MS brain lesions
-Ramaglia et al. 2023 — NIB group paper on B cells in MS brain
-International MS Genetics Consortium 2019 Science — GWAS of 47,000 MS patients
+##### Dendrou et al. 2015 Nature Reviews Immunology — "Immunopathology of multiple sclerosis" — start here, best overview
+##### Absinta et al. 2021 Nature Medicine — smoldering lesions, directly relevant to the position
+##### Schirmer et al. 2019 Nature — scRNA-seq of MS brain lesions
+##### Ramaglia et al. 2023 — NIB group paper on B cells in MS brain
+##### International MS Genetics Consortium 2019 Science — GWAS of 47,000 MS patients
 
 multi-omics integration
 
