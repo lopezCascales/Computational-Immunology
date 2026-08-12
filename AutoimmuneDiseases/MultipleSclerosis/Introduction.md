@@ -62,14 +62,14 @@ Intrathecal antibody production
 ##### How to analyse it computationally:
 
 r
-# CSF immune cell profiling with scRNA-seq
-# Same Seurat pipeline but different cell type expectations:
-# - T cells, B cells, monocytes, plasma cells
+###### CSF immune cell profiling with scRNA-seq
+###### Same Seurat pipeline but different cell type expectations:
+###### - T cells, B cells, monocytes, plasma cells
 
 
 
-# - Look for: clonally expanded B cells, exhausted T cells
-# - Compare CSF vs blood from same patient (paired analysis)
+###### - Look for: clonally expanded B cells, exhausted T cells
+###### - Compare CSF vs blood from same patient (paired analysis)
 
 
 ############################################
