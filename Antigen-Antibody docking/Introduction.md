@@ -8,5 +8,3 @@
     5. Best practice guide (HADDOCK2.X series)
     6. The HADDOCK2.4 web server: A leap forward in integrative modelling of biomolecular complexes. Nature Prot. 2024
     7. [Nanobody-antigen modelling tutorial using a local version of HADDOCK3] (https://www.bonvinlab.org/education/HADDOCK3/HADDOCK3-nanobody-antigen/)
-    [This is an external link to genome.gov](https://www.genome.gov/)
-    [website (https://www.bonvinlab.org/education/HADDOCK3/HADDOCK3-nanobody-antigen/)] [website]
