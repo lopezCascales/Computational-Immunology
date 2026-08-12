@@ -61,7 +61,7 @@ You can download and mine this data to see how your bioinformatic models perform
 
 3.  **Virtual Drug Repurposing**
    A true cure for MCTD might already exist in a lab, currently approved for a different disease.
-Project Idea: Utilize network pharmacology and tools like Connectivity Map (CMap) or LINCS L1000 data.
+Project Idea: Utilize network pharmacology and tools like Connectivity Map (**CMap**) or **LINCS L1000** data.
 The Goal: Input the differential gene expression signatures of high-titer anti-U1RNP states to find small molecules or biological pathways that reverse that exact inflammatory transcriptome.
 
 4. **Track the "Cure" Modalities (CAR-T Data Science)**
